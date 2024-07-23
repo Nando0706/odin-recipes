@@ -4,7 +4,10 @@ Este proyecto me permitio practicar los conceptos vistos durante esta etapa de O
 
 Conceptos practicados
 
--Puesta en practica de git y el como subir commits asi como su publicacion
+-Puesta en practica de git y el como subir commits asi como su publicacion 
+
 -La escritura del template basico de HTML
+
 -Aprendi a trabajar con VisualStudioCode de manera mas optima
--El uso de diferentes tags como <a> <img> <ul> <ol> asi como la  vinculacion de diferentes paginas por medio de links relativos
+
+-El uso de diferentes tags como {a, img, ul, ol} asi como la vinculacion de diferentes paginas por medio de links relativos
